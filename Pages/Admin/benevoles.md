@@ -2,23 +2,9 @@
 
 ## Creer un nouvau groupe d'utilisateurs
 
-* Dans la liste des channels sur la gauche, cliquez sur les trois petits points a cote de "Canaux" et selectionnez "Creer un canal"
-
-![Admin-Channel-OptionsCreate](https://user-images.githubusercontent.com/103455159/162825289-29c569fd-6f9c-47a3-b9ef-428547c3fde3.png)
-
-* Entrez ensuite les options de votre channel
-
-![Admin-Channel-OptionCreateName](https://user-images.githubusercontent.com/103455159/162824346-84d337a4-4f2b-470e-b322-04279b3dc396.png)
-
-*Nom = nom du channel*
-
-*Description = description du channel*
-
-*Convertir en canal prive = Cocher pour faire un channel ne concernant qu'une partie des benevoles (ex : groupes de travail)*
-
-* Cliquez sur creer
-
-* Ajoutez un ou plusieurs benevoles a votre channel
-
-![Admin-Channel-AddUsers](https://user-images.githubusercontent.com/103455159/162825140-8e9c5e4e-58bc-4434-907c-8445663242d1.png)
-
+![Admin-OpenMembersPannel](https://user-images.githubusercontent.com/103455159/162828639-f8c3f318-8599-49cc-90ca-a9e2ed1269c9.png)
+![AdminMemberPannel](https://user-images.githubusercontent.com/103455159/162828703-dd560d7c-e7ad-453d-a0c6-a333f666b715.png)
+![AdminGroupeUserPanel](https://user-images.githubusercontent.com/103455159/162828733-17960e30-36cb-4f1b-afd8-d934bdadc894.png)
+![AdminGroupUserEditPanel](https://user-images.githubusercontent.com/103455159/162828784-1baa3fdb-fd8d-4a97-8775-b806c63c26a5.png)
+![AdminCreateUserGroupEdit](https://user-images.githubusercontent.com/103455159/162828885-a4a4e7aa-a8c5-4121-9036-1ce33568090e.png)
+![AdminCreateUserGroupAddUser](https://user-images.githubusercontent.com/103455159/162828943-fe3e48ea-a948-4d72-b236-9581ab662e99.png)
