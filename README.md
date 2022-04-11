@@ -12,3 +12,5 @@ Le but de ce wiki est de vous aider a decouvrir et utliser Slack et ses diverses
 
 ### Gestion des benevoles
 * [Creer un nouveau groupe d'utilisateurs](https://ks-rdr.github.io/SlackWiki/Pages/admin-benevoles.html#creer-un-nouveau-groupe-dutilisateurs)
+
+lol
