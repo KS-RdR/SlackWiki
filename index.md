@@ -10,6 +10,7 @@ Le but de ce wiki est de vous aider a decouvrir et utliser Slack et ses diverses
 
 ### Gestion des benevoles
 
+* [Creer un nouveau groupe d'utilisateurs]()
 
 
 
