@@ -1,6 +1,9 @@
 *[Retourner au menu du wiki](https://github.com/KS-RdR/SlackWiki)*
 # Gestion des channels
 ## Trier les channels par categorie
+
+[TODO]
+
 * **Dans la liste des channels sur la gauche, cliquez sur les trois petits points a cote de "Canaux" et selectionnez "Creer un canal"**
 
 ![Admin-Channel-OptionsCreate](https://user-images.githubusercontent.com/103455159/162825289-29c569fd-6f9c-47a3-b9ef-428547c3fde3.png)
