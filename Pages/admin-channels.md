@@ -14,6 +14,6 @@
 
 * **Cliquez sur creer**
 
-* **Ajoutez un ou plusieurs benevoles a votre channel**
+* **Ajoutez un ou plusieurs benevoles (ou un [groupe d'utilisateurs](https://ks-rdr.github.io/SlackWiki/Pages/admin-benevoles.html#creer-un-nouvau-groupe-dutilisateurs)) a votre channel**
 
 ![Admin-Channel-AddUsers](https://user-images.githubusercontent.com/103455159/162825140-8e9c5e4e-58bc-4434-907c-8445663242d1.png)
