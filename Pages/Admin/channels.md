@@ -1,4 +1,4 @@
-*[Retourner au menu du wiki](https://github.com/KS-RdR/SlackWiki)*
+*[Retourner au menu du wiki](https://ks-rdr.github.io/SlackWiki)*
 # Gestion des channels
 ## Creer un nouvau channel
 * **Dans la liste des channels sur la gauche, cliquez sur les trois petits points a cote de "Canaux" et selectionnez "Creer un canal"**
