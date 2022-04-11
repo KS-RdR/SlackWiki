@@ -1,8 +1,8 @@
-# Bienvenue sur le wiki du Slack de Keep Smiling
+# SlackWiki
 
 Le but de ce wiki est de vous aider a decouvrir et utliser Slack et ses diverses possibilites
 
-##Administrateurs
+## Administrateurs
 
 ### Gestion des channels
 
