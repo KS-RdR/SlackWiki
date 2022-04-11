@@ -1,4 +1,4 @@
-*[Retourner au menu du wiki](https://github.com/KS-RdR/SlackWiki)*
+*[Retourner au menu du wiki](https://ks-rdr.github.io/SlackWiki)*
 # Gestion des benevoles
 
 ## Creer un nouvau groupe d'utilisateurs
