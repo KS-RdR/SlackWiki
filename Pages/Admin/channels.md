@@ -1,3 +1,4 @@
+*[Retourner au menu du wiki](https://github.com/KS-RdR/SlackWiki)*
 # Gestion des channels
 
 ## Creer un nouvau channel
